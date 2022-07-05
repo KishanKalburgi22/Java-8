@@ -1,4 +1,4 @@
-package com.java.DefaultMethods;
+package com.java.defaultMethods;
 
 interface Shape {
     void draw();
